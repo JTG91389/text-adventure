@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-test-adventure",
+  "version": "1.0.0",
+  "description": "Vanilla JS test adventure game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTG91389/text-adventure.git"
+  },
+  "author": "Kevin C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTG91389/text-adventure/issues"
+  },
+  "homepage": "https://github.com/JTG91389/text-adventure#readme"
+}
